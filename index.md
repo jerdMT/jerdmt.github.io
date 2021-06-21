@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project1Title](/Projects/BankChurners.html)
+[Project1Title](BankChurners.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
