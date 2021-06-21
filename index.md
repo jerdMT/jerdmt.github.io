@@ -5,24 +5,24 @@
 ### Analytics with R
 This is an attempt to to something.  
 
-[BankChurners](/mywork/BankChurners.html)
+[Bank Churners](/mywork/BankChurners.html)
 
 
 ---
 This is a research poster that gives an overview of what I am currently involved with. 
 
-[Project 2 Title](/images/RD2021.pdf)
+[Entanglment of Ring Polymers](/images/RD2021.pdf)
 
 
 ---
-[Project 3 Title](/_projects/BankChurners.html)
+[NEXT PROJECT](/_projects/BankChurners.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Analytics with Python
 
-- [BankChurners](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
+- [Bank Churners](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
