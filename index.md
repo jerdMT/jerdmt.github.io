@@ -8,8 +8,8 @@
 <img src="images/LM.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](/images/RD2021.pdf)
+<img src="images/RD2021.pdf?raw=true"/>
 
 ---
 [Project 3 Title](/_projects/BankChurners.html)
