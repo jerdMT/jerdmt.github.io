@@ -26,8 +26,7 @@ This is a research poster that gives an overview of what I am currently involved
 
 
 ---
-[NEXT PROJECT](/_projects/BankChurners.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Describe another project here, possibly with pic. 
 
 ---
 [NEXT PROJECT](/_projects/BankChurners.html)
