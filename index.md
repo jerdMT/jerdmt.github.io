@@ -9,7 +9,7 @@ This is an attempt to to something.
 
 ---
 [Project 2 Title](/images/RD2021.pdf)
-<img src="images/RD2021.pdf?raw=true"/>
+This is a research poster that gives an overview of what I am currently involved with. 
 
 ---
 [Project 3 Title](/_projects/BankChurners.html)
