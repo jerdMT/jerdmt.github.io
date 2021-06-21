@@ -5,7 +5,7 @@
 ### Analytics
 
 [BankChurners](/mywork/BankChurners.html)
-<img src="images/LM.jpg?raw=true"/>
+This is an attempt to to something.
 
 ---
 [Project 2 Title](/images/RD2021.pdf)
