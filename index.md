@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[BankChurners](/sample_page)
+[Project1Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
