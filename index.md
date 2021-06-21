@@ -23,7 +23,7 @@ This is a research poster that gives an overview of what I am currently involved
 ### Analytics with Python
 
 - [Bank Churners](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
-- [Project 2 Title](http://example.com/)
+- [Resume](/pdf/RESUME.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://jwutc.github.io/_projects/BankChurners.html)
