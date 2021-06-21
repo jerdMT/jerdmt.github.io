@@ -30,6 +30,9 @@ This is a research poster that gives an overview of what I am currently involved
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[NEXT PROJECT](/_projects/BankChurners.html)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 [NEXT PROJECT](/_projects/BankChurners.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
