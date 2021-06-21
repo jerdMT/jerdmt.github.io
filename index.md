@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Analytics
 
-[Project1Title](/Projects/BankChurners.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BankChurners](/mywork/BankChurners.html)
+<img src="images/LM.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
