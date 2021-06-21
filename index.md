@@ -3,9 +3,9 @@
 ---
 
 ### Analytics
-
-[BankChurners](/mywork/BankChurners.html)
 This is an attempt to to something.
+[BankChurners](/mywork/BankChurners.html)
+
 
 ---
 [Project 2 Title](/images/RD2021.pdf)
