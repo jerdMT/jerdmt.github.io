@@ -2,7 +2,7 @@
 
 ---
 
-### Analytics
+### Analytics with R
 This is an attempt to to something.  
 
 [BankChurners](/mywork/BankChurners.html)
@@ -20,7 +20,7 @@ This is a research poster that gives an overview of what I am currently involved
 
 ---
 
-### Category Name 2
+### Analytics with Python
 
 - [BankChurners](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
 - [Project 2 Title](http://example.com/)
