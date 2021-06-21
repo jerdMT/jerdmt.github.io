@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [BankChurners]https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
+- [BankChurners](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
