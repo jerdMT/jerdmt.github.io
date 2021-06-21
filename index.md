@@ -38,5 +38,5 @@ This is a research poster that gives an overview of what I am currently involved
 
 - [Resume](/pdf/RESUME.pdf)
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
