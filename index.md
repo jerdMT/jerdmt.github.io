@@ -9,8 +9,10 @@ This is an attempt to to something.
 
 
 ---
-[Project 2 Title](/images/RD2021.pdf)
 This is a research poster that gives an overview of what I am currently involved with. 
+
+[Project 2 Title](/images/RD2021.pdf)
+
 
 ---
 [Project 3 Title](/_projects/BankChurners.html)
