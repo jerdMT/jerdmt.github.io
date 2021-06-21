@@ -12,14 +12,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](_projects/BankChurners.html)
+[Project 3 Title](/_projects/BankChurners.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [BankChurners](https://github.com/jwUTC/jwUTC.github.io/blob/4b9510f1236fc3107086427a59e3be7331cc9e40/_projects/BankChurners.html)
+- [BankChurners](https://github.com/jwUTC/jwUTC.github.io/_projects/BankChurners.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
