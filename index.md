@@ -22,7 +22,7 @@ This is a research poster that gives an overview of what I am currently involved
 
 ### Analytics with Python
 
-- [Python Project](/mywork/Climate.ipynb)
+- [Climate Visualization](/mywork/Climate.ipynb)
 
 
 
