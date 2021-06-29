@@ -22,7 +22,7 @@ This is a research poster that gives an overview of what I am currently involved
 
 ### Analytics with Python
 
-- [Python Project](https://github.com/jwUTC/jwUTC.github.io/blob/c96b3747468af24bd7a8da1c0fdccf6ae2ac6d74/Projects/BankChurners.html)
+- [Python Project](/mywork/Climate.ipynb)
 
 
 
