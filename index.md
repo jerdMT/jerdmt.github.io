@@ -11,14 +11,15 @@ This predicts customer turnover given features.
 ---
 
 ### Entanglement of Ring Polymers, C++
-This is a research poster that gives an overview of what I am currently involved with. 
+This is a research poster that gives an overview of what I am currently involved with.   
 
 [Entanglment of Ring Polymers](/images/RD2021.pdf)
 
 
 ---
 ### Disordered Rotors
-yada yada rotors evolve to lowest energy configuration.
+yada yada rotors evolve to lowest energy configuration.  
+
 [Disordered Rotors](/_projects/BankChurners.html)
 <img src="images/SampleData.jpg?raw=true"/>
 
