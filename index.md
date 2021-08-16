@@ -3,7 +3,7 @@
 ---
 
 ### Analytics with R
-This predicts customer turnover given features. 
+This predicts customer turnover given customer features. 
 
 [Bank Churners](/mywork/BankChurners.html)
 
@@ -18,7 +18,7 @@ This is a research poster that gives an overview of what I am currently involved
 
 ---
 ### Disordered Rotors
-yada yada rotors evolve to lowest energy configuration.  
+Magnetic Rotors that evolve to thier lowest energy configuration.
 
 [Disordered Rotors](/_projects/BankChurners.html)
 <img src="images/SampleData.jpg?raw=true"/>
@@ -26,7 +26,7 @@ yada yada rotors evolve to lowest energy configuration.
 ---
 
 ### Analytics with Python
-Jupyter notebooks...
+Jupyter notebooks (just a sample upload really)
 - [Climate Visualization](/mywork/Climate.ipynb)
 
 
