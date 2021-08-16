@@ -20,7 +20,7 @@ This is a research poster that gives an overview of what I am currently involved
 ### Disordered Rotors
 Magnetic Rotors that evolve to thier lowest energy configuration.
 
-[Disordered Rotors](/_projects/BankChurners.html)
+[Disordered Rotors]("https://github.com/jwUTC/Projects/tree/main/disordered-rotors")
 <img src="images/SampleData.jpg?raw=true"/>
 
 ---
