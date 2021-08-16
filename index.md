@@ -30,12 +30,6 @@ Jupyter notebooks (just a sample upload really)
 - [Climate Visualization](/mywork/Climate.ipynb)
 
 
-
-[NEXT PROJECT](/_projects/BankChurners.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
 ## Resume
 
 - [Resume](/pdf/RESUME.pdf)
