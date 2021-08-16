@@ -35,4 +35,6 @@ Jupyter notebooks (just a sample upload really)
 - [Resume](/pdf/RESUME.pdf)
 
 
+*This site is a work in progress*
+
 <!-- Remove above link if you don't want to attibute -->
