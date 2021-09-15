@@ -28,6 +28,7 @@ Magnetic Rotors that evolve to thier lowest energy configuration.
 ### Analytics with Python
 Jupyter notebooks (just a sample upload really)
 - [Climate Visualization](/mywork/Climate.ipynb)
+- [DNA Sequencing](/mywork/DNA.html)
 
 
 ## Resume
