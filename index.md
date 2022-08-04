@@ -1,6 +1,10 @@
 ## Portfolio
 
 ---
+### Recent Work
+[Pandemic Simulation](/mywork/Simulation_UI(8).pdf)
+*All uploads to this site are works in progress or sample uploads*
+
 
 ### Analytics with R
 This predicts customer turnover given customer features. 
