@@ -2,7 +2,7 @@
 
 ---
 ### Recent Work
-[Pandemic Simulation](/mywork/Simulation_UI(8).pdf)
+[Pandemic Simulation](/mywork/simulation.pdf)
 *All uploads to this site are works in progress or sample uploads*
 
 
