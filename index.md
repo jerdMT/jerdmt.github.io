@@ -1,5 +1,9 @@
 ## Portfolio
 
+## Resume
+
+- [Resume](/pdf/RESUME.pdf)
+
 ---
 ### Recent Work
 [Pandemic Simulation](/mywork/simulation.pdf)
@@ -32,9 +36,6 @@ Magnetic Rotors that evolve to thier lowest energy configuration.
 <img src="images/SampleData.jpg?raw=true"/>
 
 ---
-## Resume
-
-- [Resume](/pdf/RESUME.pdf)
 
 
 *This site is a work in progress*
