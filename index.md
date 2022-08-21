@@ -1,6 +1,6 @@
 ## Portfolio
 
-## Resume
+### Resume
 
 - [Resume](/pdf/RESUME.pdf)
 
