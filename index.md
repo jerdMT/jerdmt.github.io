@@ -16,7 +16,7 @@ This is a research poster that gives an overview of what I was recently involved
 
 
 ### Network Science Projects
-- [Epidemic Simulation](/mywork/networkAnalysis1.ipynb)
+- [Epidemic Simulation]([/mywork/networkAnalysis1.ipynb](https://github.com/jerdMT/jerdMT.github.io/blob/master/mywork/networkAnalysis1.ipynb))
 - [Network Analysis](/mywork/networkAnalysis2.ipynb)
 
 
