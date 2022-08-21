@@ -8,6 +8,9 @@
 *All uploads to this site are works in progress or sample uploads*
 
 ### Network Science Projects
+- [Epidemic Simulation](/mywork/networkAnalysis1.ipynb)
+- [Network Analysis](/mywork/networkAnalysis2.ipynb)
+
 
 ### Analytics with R
 This predicts customer turnover given customer features. 
