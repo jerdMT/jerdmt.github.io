@@ -37,6 +37,8 @@ Magnetic Rotors that evolve to thier lowest energy configuration.
 
 ---
 
+### Writing Samples and Presentations
+[GUT Overview](/mywork/Phy318.pdf)
 
 *This site is a work in progress*
 
