@@ -21,11 +21,10 @@ This is a research poster that gives an overview of what I was recently involved
 
 
 ### Analytics with R
-This predicts customer turnover given customer features. 
-
 [Bank Churners](/mywork/BankChurners.html)
 
-[TA](/mywork/Final.html)
+[Bank Churners](/mywork/BankChurners.html)
+[Linear Regression in TA](/mywork/StatProg_Final.pdf)
 
 ---
 ### Disordered Rotors
