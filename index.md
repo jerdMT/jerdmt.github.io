@@ -3,8 +3,11 @@
 ---
 ### Recent Work
 [Pandemic Simulation](/mywork/simulation.pdf)
+
+
 *All uploads to this site are works in progress or sample uploads*
 
+### Network Science Projects
 
 ### Analytics with R
 This predicts customer turnover given customer features. 
