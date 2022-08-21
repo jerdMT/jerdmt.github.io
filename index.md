@@ -7,6 +7,14 @@
 
 *All uploads to this site are works in progress or sample uploads*
 
+---
+
+### Entanglement of Ring Polymers, C++
+This is a research poster that gives an overview of what I was recently involved with.   
+
+[Entanglment of Ring Polymers](/images/RD2021.pdf)
+
+
 ### Network Science Projects
 - [Epidemic Simulation](/mywork/networkAnalysis1.ipynb)
 - [Network Analysis](/mywork/networkAnalysis2.ipynb)
@@ -18,14 +26,6 @@ This predicts customer turnover given customer features.
 [Bank Churners](/mywork/BankChurners.html)
 
 [TA](/mywork/Final.html)
-
----
-
-### Entanglement of Ring Polymers, C++
-This is a research poster that gives an overview of what I am currently involved with.   
-
-[Entanglment of Ring Polymers](/images/RD2021.pdf)
-
 
 ---
 ### Disordered Rotors
@@ -40,7 +40,6 @@ Magnetic Rotors that evolve to thier lowest energy configuration.
 Jupyter notebooks (just a sample upload really)
 - [Climate Visualization](/mywork/Climate (2).html)
 - [DNA Sequencing](/mywork/DNA.html)
-
 
 ## Resume
 
