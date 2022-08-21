@@ -22,8 +22,6 @@ This is a research poster that gives an overview of what I was recently involved
 
 ### Analytics with R
 [Bank Churners](/mywork/BankChurners.html)
-
-[Bank Churners](/mywork/BankChurners.html)
 [Linear Regression in TA](/mywork/StatProg_Final.pdf)
 
 ---
