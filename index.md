@@ -4,7 +4,7 @@
 
 ---
 ### Recent Work
-[Tree Mortality](/mywork/Tree_FTM.html)
+[Tree Mortality](/mywork/Tree_Mortatlity.html)
 
 [Pandemic Simulation](/mywork/simulation.pdf)
 
